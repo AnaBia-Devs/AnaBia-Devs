@@ -1,6 +1,7 @@
 # 👩🏻‍💻 Bia Boldrini
 
 **`Desenvolvedora Back-end`**
+
 Me chamo Ana Beatriz, tenho 24 anos e sou natural do Espírito Santo. Atualmente curso Engenharia da Computação na Multivix Vitória.
 
 💻 Apaixonada por tecnologia e programação
