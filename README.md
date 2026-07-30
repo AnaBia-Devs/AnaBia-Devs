@@ -29,32 +29,7 @@ Aqui no GitHub você vai encontrar meus estudos, projetos e experiências ao lon
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="JS" 
-    title="JS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://jsdelivr.net" 
-/>
 
-<img 
-    align="left" 
-    alt="TS" 
-    title="TS" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://jsdelivr.net" 
-/>
-
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://jsdelivr.net" 
-/>
 
 
 <br/>
